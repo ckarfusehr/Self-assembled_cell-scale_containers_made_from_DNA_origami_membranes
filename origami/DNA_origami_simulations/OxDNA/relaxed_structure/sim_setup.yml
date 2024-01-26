@@ -1,0 +1,3 @@
+use_force_file: True
+do_initial_relaxation: True
+do_production_sim: True
