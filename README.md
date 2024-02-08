@@ -1,6 +1,6 @@
 # Additional Information for the preprint article "Self-assembled cell-scale containers made from DNA origami membranes"
 
-Authors: Christoph Karfusehr, Markus Eder and Friedrich C. Simmel
+Authors: Christoph Karfusehr, Markus Eder, Friedrich C. Simmel
 
 This repository contains:
 
